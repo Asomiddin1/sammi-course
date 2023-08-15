@@ -1,0 +1,12 @@
+.cart__container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    margin-top: 32px;
+	margin-bottom: 50px;
+	gap: 10px;
+}
+
+.cart__title{
+font-size: 22px;
+}
